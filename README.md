@@ -9,6 +9,7 @@ Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate 
 ---
 ## 🛠 Technologies & Tools
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Actix](https://img.shields.io/badge/actix-333333?style=for-the-badge&logo=actix&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
