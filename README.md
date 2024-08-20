@@ -8,7 +8,7 @@ Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate 
 
 ---
 
-## 🔧 Technologies & Tools
+## 🛠 Technologies & Tools
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -16,37 +16,6 @@ Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate 
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Languages:
-- **Rust** 🦀
-- Python 🐍
-- JavaScript Ecosystems(ES6+) 🌐
-- HTML5 & CSS3 🎨
-- SQL (PostgreSQL, MySQL) 🗄️
-
-### Frameworks & Libraries:
-- **React** ⚛️
-- Node.js 🚀
-- Express.js 📦
-- Django 🕸️
-- Flask 🌶️
-
-### Databases:
-- MongoDB 🍃
-- PostgreSQL 🐘
-- MySQL 🗄️
-
-### Tools & Platforms:
-- Git & GitHub 🐙
-- Docker 🐳
-- Linux/Unix Administration 🖥️
-- Nginx & Apache 🌐
-
-### Other:
-- Computer Networking 🌐
-- Server Administration 🛠️
-- CI/CD Pipelines ⚙️
-
 ---
 
 ## 🎯 Currently Working On:
