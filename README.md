@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Bhuwan here! how are you today 💻!</h1>
-### Passionate Software Developer | Rust Enthusiast | Full-Stack Developer
+
+## Passionate Software Developer | Rust Enthusiast | Full-Stack Developer
 
 ---
 
@@ -53,7 +54,6 @@ Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate 
 - System Design & Architecture: Building scalable and reliable systems.
 - Cloud Technologies: Expanding my knowledge of cloud services like AWS, GCP, and Azure.
 
----
 
 ---
 
