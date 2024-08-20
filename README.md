@@ -9,7 +9,7 @@ Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate 
 ---
 
 ## 🔧 Technologies & Tools
-[![Rust](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=rust&logoColor=000000)
+![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
