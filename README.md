@@ -9,8 +9,8 @@ Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate 
 ---
 ## 🛠 Technologies & Tools
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/rust-000000?logo=rust&logoColor=white" alt="Rust" style="pointer-events: none; user-select: none; width: auto; height: 30px;">
-  <img src="https://img.shields.io/badge/actix-333333?logo=actix&logoColor=white" alt="Actix" style="pointer-events: none; user-select: none; width: auto; height: 28px;">
+  <img src="https://img.shields.io/badge/rust-000000?logo=rust&logoColor=white" alt="Rust" style="pointer-events: none; user-select: none; width: auto; height: 45px;" onclick="return false">
+  <img src="https://img.shields.io/badge/actix-333333?logo=actix&logoColor=white" alt="Actix" style="pointer-events: none; user-select: none; width: auto; height: 45px;" onclick="return false">
   <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white" alt="Python" style="pointer-events: none; user-select: none; width: auto; height: 28px;">
   <img src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white" alt="Flask" style="pointer-events: none; user-select: none; width: auto; height: 28px;">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="pointer-events: none; user-select: none; width: auto; height: 28px;">
