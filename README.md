@@ -1,12 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Bhuwan here! how are you today 💻!</h1>
-
-## Passionate Software Developer | Rust Enthusiast | Full-Stack Developer
-
----
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Passionate Software Developer | Rust Enthusiast | Full-Stack Developer 💻!</h1>
 
 Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate about coding, especially in **Rust**. I graduated with a degree in Computing and currently working towards my goals and future. My journey in the tech world has led me to explore various programming languages, databases, and server technologies. My goal is to master Rust while continuously improving my skills in full-stack development and system administration.
 
----
 ## 🛠 Technologies & Tools
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/rust-000000?logo=rust&logoColor=white" alt="Rust" style="pointer-events: none; user-select: none; width: auto; height: 40px;">
@@ -28,9 +23,6 @@ Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate 
   <img src="https://img.shields.io/badge/gitlab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab" style="pointer-events: none; user-select: none; width: auto; height: 40px;">
   <img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black" alt="Linux" style="pointer-events: none; user-select: none; width: auto; height: 40px;">
 </p>
-
-
----
 
 ## 🎯 Currently Working On:
 - **Mastering Rust**: Diving deep into systems programming and building robust, high-performance applications with Rust.
