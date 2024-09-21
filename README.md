@@ -35,7 +35,14 @@ Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate 
 - Cloud Technologies: Expanding my knowledge of cloud services like AWS, GCP, and Azure.
 
 ## 📊 GitHub Stats:
-[![Bhuwan's github stats](https://github-readme-stats.vercel.app/api?username=bp7968h&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
----
+<div align="center">
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bp7968h&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bp7968h&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bp7968h&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bp7968h&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bp7968h&theme=transparent&utcOffset=8"/>
+  <img align="center" alt="GitHub Details" src="https://github-readme-stats.vercel.app/api?username=bp7968h&show_icons=true&theme=transparent&hide_border=true" width="60%"/>
+</div>
+    
 
-### Thanks for visiting! Happy coding! 🚀
+## Thanks for visiting! Happy coding! 🚀
