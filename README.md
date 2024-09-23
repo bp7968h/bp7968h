@@ -36,12 +36,13 @@ Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate 
 
 ## 📊 GitHub Stats:
 <div align="center">
+  <img align="center" alt="GitHub Details" src="https://github-readme-streak-stats.herokuapp.com/?user=bp7968h&theme=transparent&hide_border=true"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bp7968h&theme=transparent"/>
-  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bp7968h&theme=transparent"/>
-  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bp7968h&theme=transparent"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bp7968h&theme=transparent"/>
   <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bp7968h&theme=transparent&utcOffset=8"/>
-  <img align="center" alt="GitHub Details" src="https://github-readme-stats.vercel.app/api?username=bp7968h&show_icons=true&theme=transparent&hide_border=true" width="60%"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bp7968h&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bp7968h&theme=transparent"/>
+  <img align="center" alt="GitHub Details" src="https://github-readme-stats.vercel.app/api?username=bp7968h&show_icons=true&theme=transparent&hide_border=true"/>
 </div>
     
 
