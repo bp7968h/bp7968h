@@ -1,4 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Passionate Software Developer | Rust Enthusiast | Full-Stack Developer 💻!</h1>
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Passionate Software Developer | Rust Enthusiast | Full-Stack Developer 💻!
+</h1>
 
 Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate about coding, especially in **Rust**. I graduated with a degree in Computing and currently working towards my goals and future. My journey in the tech world has led me to explore various programming languages, databases, and server technologies. My goal is to master Rust while continuously improving my skills in full-stack development and system administration.
 
