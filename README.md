@@ -34,7 +34,8 @@ Hi there! 👋 I'm Bhuwan Pandit, a software developer who is deeply passionate 
 ## 🌱 Always Learning:
 - Advanced Rust Programming: Exploring async/await, macros, and unsafe Rust.
 - System Design & Architecture: Building scalable and reliable systems.
-- Cloud Technologies: Expanding my knowledge of cloud services like AWS, GCP, and Azure.
+- Cloud Technologies: Expanding my knowledge of cloud services like AWS.
+- Uncovering Abstraction: Reinventing the wheel by implementing lower level stuff and slowly moving towards the higher level stuff.
 
 ## 📊 GitHub Stats:
 <div align="center">
